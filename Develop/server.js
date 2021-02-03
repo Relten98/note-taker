@@ -5,7 +5,7 @@ const htmlRoutes = require("./routes/htmlRoutes.js");
 const app = express();
 
 /// Sets port to 8081
-const port = 8081;
+var PORT = process.env.PORT || 8081s;
 
 app.use(express.json());
 app.use(express.urlencoded({extended: true}));
