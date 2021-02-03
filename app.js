@@ -1,5 +1,5 @@
 let noteText = getelementbyid."noteText"
-const bacon = "delicious"
+
 
 
 
@@ -19,7 +19,7 @@ const bacon = "delicious"
 /* let Ty = "wants2die"
 
 function willtolive() {
-    if(appfunctions = true) {
+    if(appFunctions = true) {
         let Ty = "wants2live"
     }
 } */
