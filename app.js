@@ -1,4 +1,4 @@
-let noteText = getelementbyid."noteText"
+
 
 
 
