@@ -20,5 +20,6 @@ require("./routes/htmlRoutes")(note);
 
 // Starts the server to begin listening
 note.listen(PORT, function () {
-    console.log(`App is listening on PORT: ${PORT}`);
+    console.log(`Woo Yeah Baby! That's What I've Been Waiting For!`);
+    console.log(`Application is listening on port: ${PORT}`);
 });
