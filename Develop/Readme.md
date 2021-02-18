@@ -1,2 +1,8 @@
+### NOTE TAKER
+
 ## INSTALLATION
-Simply Download the file, and run it through herouku
+No Installation necessary, simply boot the application through Heroku.
+
+## LINKS
+
+## IMAGES
