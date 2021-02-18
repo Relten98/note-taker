@@ -1,8 +1,0 @@
-// This way is far cleaner than a single line. SMH
-[
-    {    
-    "title": "Test Title",
-    "text": "Test Text",
-    "id": 0
-    }
-]
