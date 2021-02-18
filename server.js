@@ -14,8 +14,8 @@ note.use(express.urlencoded({ extended: true }));
 note.use(express.json());
 
 //Require the Routes.js files in order to communicate when to generate api routes and html files
-require("./routes/apiRoutes")(note);
-require("./routes/htmlRoutes")(note);
+require("./apiRoutes")(note);
+require("./htmlRoutes")(note);
 
 
 // Starts the server to begin listening
